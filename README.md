@@ -1,1 +1,1 @@
-# Java-Game
+# Brick Break & Tic tac toe game using java
